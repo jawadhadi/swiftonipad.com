@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>swiftui on Swift on iPad</title>
-    <link>http://swiftonipad.com/tags/swiftui/</link>
+    <link>https://swiftonipad.com/tags/swiftui/</link>
     <description>Recent content in swiftui on Swift on iPad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Swift on iPad. All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 01 Oct 2021 00:19:34 +0500</lastBuildDate><atom:link href="http://swiftonipad.com/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Oct 2021 00:19:34 +0500</lastBuildDate><atom:link href="https://swiftonipad.com/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Playgrounds 4: Things we know so far</title>
-      <link>http://swiftonipad.com/posts/swift-playgrounds-4-what-we-know-so-far/</link>
+      <link>https://swiftonipad.com/posts/swift-playgrounds-4-what-we-know-so-far/</link>
       <pubDate>Fri, 01 Oct 2021 00:19:34 +0500</pubDate>
       
-      <guid>http://swiftonipad.com/posts/swift-playgrounds-4-what-we-know-so-far/</guid>
+      <guid>https://swiftonipad.com/posts/swift-playgrounds-4-what-we-know-so-far/</guid>
       <description>During WWDC 2021 keynote Craig Fedrighi teased Playgrounds 4 for iPad by saying that it will bring the ability to “build apps on iPad”. Later that day we saw a short demo of the new Playgrounds during “Platforms State of the Union”, a developer centric keynote that delves deeper into the newly announced tools and technologies. Since that day we haven&amp;rsquo;t heard anything more about the Playgrounds 4 update.</description>
     </item>
     
