@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Swift on iPad</title>
+    <link>https://swiftonipad.com/tags/</link>
+    <description>Recent content in Tags on Swift on iPad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Swift on iPad. All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 01 Oct 2021 00:19:34 +0500</lastBuildDate><atom:link href="https://swiftonipad.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ipad</title>
+      <link>https://swiftonipad.com/tags/ipad/</link>
+      <pubDate>Fri, 01 Oct 2021 00:19:34 +0500</pubDate>
+      
+      <guid>https://swiftonipad.com/tags/ipad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>playgrounds 4</title>
+      <link>https://swiftonipad.com/tags/playgrounds-4/</link>
+      <pubDate>Fri, 01 Oct 2021 00:19:34 +0500</pubDate>
+      
+      <guid>https://swiftonipad.com/tags/playgrounds-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swiftui</title>
+      <link>https://swiftonipad.com/tags/swiftui/</link>
+      <pubDate>Fri, 01 Oct 2021 00:19:34 +0500</pubDate>
+      
+      <guid>https://swiftonipad.com/tags/swiftui/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
