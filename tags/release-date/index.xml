@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Swift on iPad</title>
-    <link>https://swiftonipad.com/</link>
-    <description>Recent content on Swift on iPad</description>
+    <title>release date on Swift on iPad</title>
+    <link>https://swiftonipad.com/tags/release-date/</link>
+    <description>Recent content in release date on Swift on iPad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Swift on iPad. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 07 Dec 2021 07:00:00 +0500</lastBuildDate><atom:link href="https://swiftonipad.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Dec 2021 07:00:00 +0500</lastBuildDate><atom:link href="https://swiftonipad.com/tags/release-date/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swift Playgrounds 4 release imminent</title>
       <link>https://swiftonipad.com/posts/swift-playgrounds-4-release-imminent/</link>
@@ -16,15 +16,6 @@
       <guid>https://swiftonipad.com/posts/swift-playgrounds-4-release-imminent/</guid>
       <description>Finally seems like the wait is about to get over and soon you will be able to install Swift Playgrounds 4 on your iPads. Apple.com still mentions vague &amp;ldquo;available late 2021&amp;rdquo; release date, but you should expect the release within a couple of weeks. Why? Here are some points to back it:
  Xcode 13.2 beta (released initially on October 27th) has support for &amp;ldquo;app projects created with Swift Playgrounds 4&amp;rdquo;.</description>
-    </item>
-    
-    <item>
-      <title>Swift Playgrounds 4: Things we know so far</title>
-      <link>https://swiftonipad.com/posts/swift-playgrounds-4-what-we-know-so-far/</link>
-      <pubDate>Mon, 04 Oct 2021 00:19:34 +0500</pubDate>
-      
-      <guid>https://swiftonipad.com/posts/swift-playgrounds-4-what-we-know-so-far/</guid>
-      <description>During WWDC 2021 keynote Craig Fedrighi teased Playgrounds 4 for iPad by saying that it will bring the ability to “build apps on iPad”. Later that day we saw a short demo of the new Playgrounds during “Platforms State of the Union”, a developer centric keynote that dives deeper into the newly announced tools and technologies. Since that day we haven&amp;rsquo;t heard anything more about the Playgrounds 4 update.</description>
     </item>
     
   </channel>

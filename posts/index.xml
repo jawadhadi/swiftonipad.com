@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Swift on iPad. All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 04 Oct 2021 00:19:34 +0500</lastBuildDate><atom:link href="https://swiftonipad.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Dec 2021 07:00:00 +0500</lastBuildDate><atom:link href="https://swiftonipad.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swift Playgrounds 4 release imminent</title>
+      <link>https://swiftonipad.com/posts/swift-playgrounds-4-release-imminent/</link>
+      <pubDate>Tue, 07 Dec 2021 07:00:00 +0500</pubDate>
+      
+      <guid>https://swiftonipad.com/posts/swift-playgrounds-4-release-imminent/</guid>
+      <description>Finally seems like the wait is about to get over and soon you will be able to install Swift Playgrounds 4 on your iPads. Apple.com still mentions vague &amp;ldquo;available late 2021&amp;rdquo; release date, but you should expect the release within a couple of weeks. Why? Here are some points to back it:
+ Xcode 13.2 beta (released initially on October 27th) has support for &amp;ldquo;app projects created with Swift Playgrounds 4&amp;rdquo;.</description>
+    </item>
+    
     <item>
       <title>Swift Playgrounds 4: Things we know so far</title>
       <link>https://swiftonipad.com/posts/swift-playgrounds-4-what-we-know-so-far/</link>
