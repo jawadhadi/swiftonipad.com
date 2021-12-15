@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>build apps on ipad on Swift on iPad</title>
+    <link>https://swiftonipad.com/tags/build-apps-on-ipad/</link>
+    <description>Recent content in build apps on ipad on Swift on iPad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Swift on iPad. All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 15 Dec 2021 23:27:52 +0500</lastBuildDate><atom:link href="https://swiftonipad.com/tags/build-apps-on-ipad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swift Playgrounds 4 released for iPad and Mac</title>
+      <link>https://swiftonipad.com/posts/swift-playgrounds-4-released/</link>
+      <pubDate>Wed, 15 Dec 2021 23:27:52 +0500</pubDate>
+      
+      <guid>https://swiftonipad.com/posts/swift-playgrounds-4-released/</guid>
+      <description>Yes, the wait is finally over now. Apple just dropped the long awaited update for Swift Playgrounds, you can download the latest version from App Store (download links at bottom). It brings the ability to develop iPhone and iPad apps right from any iPad running iPadOS 15.2 or later. So if your iPad got the iPadOS 15 update, you are in for the treat.
+However for the Mac app, story is different, it just adds support for Swift 5.</description>
+    </item>
+    
+  </channel>
+</rss>
