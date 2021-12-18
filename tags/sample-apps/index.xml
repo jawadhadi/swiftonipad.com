@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sample apps on Swift on iPad</title>
+    <link>https://swiftonipad.com/tags/sample-apps/</link>
+    <description>Recent content in sample apps on Swift on iPad</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Swift on iPad. All Rights Reserved.</copyright>
+    <lastBuildDate>Sat, 18 Dec 2021 12:50:26 +0500</lastBuildDate><atom:link href="https://swiftonipad.com/tags/sample-apps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple releases sample apps tutorials for Swift Playgrounds and Xcode</title>
+      <link>https://swiftonipad.com/posts/official-sample-apps-tutorials-for-playgrounds-released/</link>
+      <pubDate>Sat, 18 Dec 2021 12:50:26 +0500</pubDate>
+      
+      <guid>https://swiftonipad.com/posts/official-sample-apps-tutorials-for-playgrounds-released/</guid>
+      <description>Apple has dropped ten (10) sample apps tutorials for newly released Playgrounds 4 and Xcode. &amp;lsquo;Sample Apps Tutorials&amp;rsquo; page lists 4 chapters containing multiple apps to showcase different techniques to users like navigating between pages, fetching content from servers, handling user input and more.
+On every sample app&amp;rsquo;s page, you will find project&amp;rsquo;s summary, a button to download project files, and step by step explanation of code. To follow the tutorials you will need Swift Playgrounds 4 or later on your iPad, and Xcode 13.</description>
+    </item>
+    
+  </channel>
+</rss>

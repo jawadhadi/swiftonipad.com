@@ -7,31 +7,58 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Swift on iPad. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 15 Dec 2021 23:27:52 +0500</lastBuildDate><atom:link href="https://swiftonipad.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>build apps on ipad</title>
-      <link>https://swiftonipad.com/tags/build-apps-on-ipad/</link>
-      <pubDate>Wed, 15 Dec 2021 23:27:52 +0500</pubDate>
-      
-      <guid>https://swiftonipad.com/tags/build-apps-on-ipad/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 18 Dec 2021 12:50:26 +0500</lastBuildDate><atom:link href="https://swiftonipad.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>playgrounds 4</title>
       <link>https://swiftonipad.com/tags/playgrounds-4/</link>
-      <pubDate>Wed, 15 Dec 2021 23:27:52 +0500</pubDate>
+      <pubDate>Sat, 18 Dec 2021 12:50:26 +0500</pubDate>
       
       <guid>https://swiftonipad.com/tags/playgrounds-4/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>sample apps</title>
+      <link>https://swiftonipad.com/tags/sample-apps/</link>
+      <pubDate>Sat, 18 Dec 2021 12:50:26 +0500</pubDate>
+      
+      <guid>https://swiftonipad.com/tags/sample-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>swift playgrounds</title>
       <link>https://swiftonipad.com/tags/swift-playgrounds/</link>
-      <pubDate>Wed, 15 Dec 2021 23:27:52 +0500</pubDate>
+      <pubDate>Sat, 18 Dec 2021 12:50:26 +0500</pubDate>
       
       <guid>https://swiftonipad.com/tags/swift-playgrounds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorials</title>
+      <link>https://swiftonipad.com/tags/tutorials/</link>
+      <pubDate>Sat, 18 Dec 2021 12:50:26 +0500</pubDate>
+      
+      <guid>https://swiftonipad.com/tags/tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xcode</title>
+      <link>https://swiftonipad.com/tags/xcode/</link>
+      <pubDate>Sat, 18 Dec 2021 12:50:26 +0500</pubDate>
+      
+      <guid>https://swiftonipad.com/tags/xcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>build apps on ipad</title>
+      <link>https://swiftonipad.com/tags/build-apps-on-ipad/</link>
+      <pubDate>Wed, 15 Dec 2021 23:27:52 +0500</pubDate>
+      
+      <guid>https://swiftonipad.com/tags/build-apps-on-ipad/</guid>
       <description></description>
     </item>
     
